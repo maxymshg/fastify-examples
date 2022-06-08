@@ -1,0 +1,31 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "An ejs example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxymshg/fastify-examples.git"
+  },
+  "keywords": [
+    "fastify",
+    "hello-world"
+  ],
+  "author": "Maksym Shekhovets",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/maxymshg/fastify-examples/issues"
+  },
+  "homepage": "https://github.com/maxymshg/fastify-examples#readme",
+  "dependencies": {
+    "fastify": "^4.0.0",
+    "@fastify/view": "^7.0.0",
+    "@fastify/static": "^6.4.0",
+    "ejs": "^3.1.8"
+  }
+}
