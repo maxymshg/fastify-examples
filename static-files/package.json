@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/maxymshg/fastify-examples#readme",
   "dependencies": {
-    "fastify": "^4.8.1",
+    "fastify": "^4.10.2",
     "@fastify/static": "^6.4.0"
   }
 }
